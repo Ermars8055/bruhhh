@@ -9,10 +9,10 @@ const Home = () => {
 
   
   const topics = [
-    'Mathematics',
+    'LOL',
     'Physics',
-    'Chemistry',
-    'Biology',
+    'DBMS',
+    'AI/ML',
     'Computer Science',
   ];
 
